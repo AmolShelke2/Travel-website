@@ -15,7 +15,7 @@ const Navbar = () => {
   };
 
   return (
-    <div className="flex justify-between items-center h-20 px-4">
+    <div className="flex justify-between text-center items-center h-20 px-4">
       <div>
         <h1 className={logo ? "hidden" : "block"} onClick={handleNav}>
           BEACHES
