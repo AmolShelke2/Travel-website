@@ -19,8 +19,8 @@ const Home = () => {
       <div
         className="absolute top-0 left-0 w-full h-full flex 
       flex-col justify-center item-center text-center text-white p-4">
-        <h1>First class travel</h1>
-        <h2 className="py-3">Top 1% location worldwide</h2>
+        <h1>First Class Travel</h1>
+        <h2 className="py-3">Top 1% Location Worldwide</h2>
         <form
           className="flex items-center justify-between 
         max-w-[700px] mx-auto w-full border p-1 rounded-md text-black bg-gray-100/90">
