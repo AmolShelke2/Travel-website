@@ -60,7 +60,7 @@ const Search = () => {
             <label>Destination</label>
             <select className="border rounded-md p-2">
               <option>Grand Antigua</option>
-              <option>Key west</option>
+              <option>Key West</option>
               <option>Maldives</option>
               <option>Cozumail</option>
             </select>
