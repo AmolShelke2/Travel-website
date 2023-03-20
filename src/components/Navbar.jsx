@@ -15,7 +15,9 @@ const Navbar = () => {
   };
 
   return (
-    <div className="flex justify-between text-center items-center h-20 px-4">
+    <div
+      className="flex w-full justify-between items-center
+     h-20 px-4 absolute z-10 text-white">
       <div>
         <h1 className={logo ? "hidden" : "block"} onClick={handleNav}>
           BEACHES
@@ -34,8 +36,10 @@ const Navbar = () => {
       </div>
 
       {/* Hamburger menu */}
-      <div className="md:hidden z-10 cursor-pointer" onClick={handleNav}>
-        {nav ? <AiOutlineClose size={20} /> : <HiOutlineMenuAlt4 size={20} />}
+      <div
+        className="md:hidden z-10 cursor-pointer text-black"
+        onClick={handleNav}>
+        {nav ? <AiOutlineClose size={30} /> : <HiOutlineMenuAlt4 size={30} />}
       </div>
 
       {/* Mobile menu dropdown */}
@@ -43,7 +47,7 @@ const Navbar = () => {
         onClick={handleNav}
         className={
           nav
-            ? "absolute left-0 top-0 w-full bg-gray-100/90 px-4 py-7 flex flex-col"
+            ? "absolute text-black left-0 top-0 w-full bg-gray-100/90 px-4 py-7 flex flex-col"
             : "absolute left-[-100%]"
         }>
         <ul>
