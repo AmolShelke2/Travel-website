@@ -1,4 +1,5 @@
 import React from "react";
+import Corousel from "./components/Corousel";
 import Destination from "./components/Destination";
 import Home from "./components/Home";
 import Navbar from "./components/Navbar";
@@ -13,6 +14,7 @@ const App = () => {
       <Destination />
       <Search />
       <Selects />
+      <Corousel />
     </div>
   );
 };
