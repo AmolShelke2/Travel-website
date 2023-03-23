@@ -5,13 +5,25 @@ const Footer = () => {
   return (
     <div className="w-full bg-gray-100 py-16">
       <div className="max-w-[1240px] mx-auto flex flex-col px-4">
-        <h1>BEACHES</h1>
-        <div className="">
-          <FaFacebook className="icon" />
-          <FaTwitter className="icon" />
-          <FaLinkedin className="icon" />
-          <FaGithub className="icon" />
+        <div className="sm:flex text-center justify-between">
+          <h1 className="mb-8">BEACHES</h1>
+          <div className="flex justify-between w-full sm:max-w-[200px] my-4">
+            <FaFacebook className="icon" />
+            <FaTwitter className="icon" />
+            <FaLinkedin className="icon" />
+            <FaGithub className="icon" />
+          </div>
         </div>
+        <div className="w-full">
+          <ul className="mb-8 md:flex">
+            <li className="md:border-r md:border-black">Home</li>
+            <li className="md:border-r md:border-black">Destinations</li>
+            <li className="md:border-r md:border-black">Travel</li>
+            <li className="md:border-r md:border-black">Views</li>
+            <li>Book</li>
+          </ul>
+        </div>
+        <p className="shadow-sm">Design and developed by Amol Shelke❤️</p>
       </div>
     </div>
   );

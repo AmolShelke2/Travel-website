@@ -39,6 +39,6 @@
   }
 
   .icon {
-    @apply text-2xl cursor-pointer;
+    @apply text-2xl cursor-pointer mx-2;
   }
 }
