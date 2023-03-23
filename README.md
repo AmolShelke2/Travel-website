@@ -2,6 +2,25 @@
 
 A responsive Travel wesbite created with ReactJS and Tailwind CSS.
 
+<hr>
+
+## Tech Stack
+
+- ReactJS
+- Tailwind CSS
+
+<hr>
+
+## Responsive devices
+
+- Phones
+- PC
+- Desktops
+
+<hr>
+
+## Preview
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
