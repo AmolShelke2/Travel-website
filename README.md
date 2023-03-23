@@ -21,6 +21,16 @@ A responsive Travel wesbite created with ReactJS and Tailwind CSS.
 
 ## Preview
 
+### Screenshot
+
+![localhost_3000_(Nest Hub Max) (2)](https://user-images.githubusercontent.com/95171638/227251721-13071cd5-017d-4bf8-aa17-44a3e5628231.png)
+
+
+<hr>
+
+### Live Preview
+
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
