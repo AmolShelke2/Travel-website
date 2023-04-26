@@ -4,6 +4,20 @@ A responsive Travel wesbite created with ReactJS and Tailwind CSS.
 
 <hr>
 
+
+## Preview
+
+### Live Preview
+[Travel website](https://travel-website-nine-bice.vercel.app/)
+
+<hr>
+
+### Screenshot
+
+![localhost_3000_(Nest Hub Max) (2)](https://user-images.githubusercontent.com/95171638/227251721-13071cd5-017d-4bf8-aa17-44a3e5628231.png)
+
+<hr>
+
 ## Tech Stack
 
 - ReactJS
@@ -18,21 +32,6 @@ A responsive Travel wesbite created with ReactJS and Tailwind CSS.
 - Desktops
 
 <hr>
-
-## Preview
-
-### Live Preview
-[Travel website](https://travel-website-nine-bice.vercel.app/)
-
-<hr>
-
-### Screenshot
-
-![localhost_3000_(Nest Hub Max) (2)](https://user-images.githubusercontent.com/95171638/227251721-13071cd5-017d-4bf8-aa17-44a3e5628231.png)
-
-
-<hr>
-
 
 ## Getting Started with Create React App
 
