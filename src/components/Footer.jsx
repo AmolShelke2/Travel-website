@@ -23,7 +23,9 @@ const Footer = () => {
             <li>Book</li>
           </ul>
         </div>
-        <p className="shadow-sm">Design and developed by Amol Shelke❤️</p>
+        <p className="shadow-sm capitalize">
+          Design and developed by Amol Shelke❤️
+        </p>
       </div>
     </div>
   );
