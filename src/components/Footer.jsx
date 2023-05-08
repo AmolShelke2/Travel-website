@@ -15,7 +15,7 @@ const Footer = () => {
           </div>
         </div>
         <div className="w-full">
-          <ul className="mb-8 md:flex">
+          <ul className="mb-4 md:flex">
             <li className="md:border-r md:border-black">Home</li>
             <li className="md:border-r md:border-black">Destinations</li>
             <li className="md:border-r md:border-black">Travel</li>
