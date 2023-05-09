@@ -25,9 +25,9 @@ const Navbar = () => {
       </div>
       <ul className="hidden md:flex">
         <li>Home</li>
-        <li>Destinations</li>
+        <li>Destination</li>
         <li>Travel</li>
-        <li>Views</li>
+        <li>View</li>
         <li>Book</li>
       </ul>
       <div className="hidden md:flex">
