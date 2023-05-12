@@ -9,7 +9,7 @@ const Navbar = () => {
   const [nav, setnav] = useState(false);
   const [logo, setLogo] = useState(false);
 
-  const handleNav = () => {
+  const handleNavbar = () => {
     setnav(!nav);
     setLogo(!logo);
   };
@@ -19,7 +19,7 @@ const Navbar = () => {
       className="flex w-full justify-between items-center
      h-20 px-4 absolute z-10 text-white">
       <div>
-        <h1 className={logo ? "hidden" : "block"} onClick={handleNav}>
+        <h1 className={logo ? "hidden" : "block"} onClick={handleNavbar}>
           BEACHES
         </h1>
       </div>
